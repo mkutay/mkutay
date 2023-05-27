@@ -1,4 +1,3 @@
-### Hi there! I'm Kutay.
 <!--
 **MKutay/MKutay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![nord](/images/nord-better.png)
+![nord](/images/nord-name.png)
 
 Check me out through my [website](https://www.mkutay.dev/) or contact me through [mail](mailto:mkutaybzkrt01101011@gmail.com).
