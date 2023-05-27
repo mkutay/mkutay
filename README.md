@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![nord](/images/nord.png)
+![nord](/images/nord-better.png)
