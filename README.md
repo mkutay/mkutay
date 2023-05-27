@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![nord](/images/nord-better.png)
+
+Check me out through my [website](https://www.mkutay.dev/) or contact me through [mail](mailto:mkutaybzkrt01101011@gmail.com).
