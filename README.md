@@ -15,13 +15,3 @@ Here are some ideas to get you started:
 ![nord](/images/nord-name-2.png)
 
 Check me out through my [website](https://www.mkutay.dev/) or contact me through [mail](mailto:mkutaybzkrt01101011@gmail.com).
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-4ZD9JTH416"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-4ZD9JTH416');
-</script>
