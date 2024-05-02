@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![nord](/images/nord-name-2.png)
+<!--![nord](/images/nord-name-2.png)
 
-Check me out through my [website](https://www.mkutay.dev/) or contact me through [mail](mailto:hello@mkutay.dev).
+Check me out through my [website](https://www.mkutay.dev/) or contact me through [mail](mailto:hello@mkutay.dev).-->
+[www.mkutay.dev](https://mkutay.dev/)
