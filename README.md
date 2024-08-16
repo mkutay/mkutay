@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 <!--![nord](/images/nord-name-2.png)
 
 Check me out through my [website](https://www.mkutay.dev/) or contact me through [mail](mailto:hello@mkutay.dev).-->
-[www.mkutay.dev](https://www.mkutay.dev/)
+<p align="center">
+  <samp>
+    <a href="https://www.mkutay.dev/about">me</a> .
+    <a href="https://www.mkutay.dev">blog</a> .
+    <a href="https://www.mkutay.dev/projects">projects</a> .
+    <a href="https://twitter.com/mkutaybozkurt">tweets</a> .
+    <a href="https://instagram.com/mkutaybozkurt">instagram</a> .
+    <a href="https://github.com/sponsors/mkutay">sponsor</a>
+  </samp>
+</p>
