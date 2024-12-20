@@ -20,8 +20,8 @@ Check me out through my [website](https://www.mkutay.dev/) or contact me through
     <a href="https://www.mkutay.dev/about">me</a> .
     <a href="https://www.mkutay.dev">blog</a> .
     <a href="https://www.mkutay.dev/projects">projects</a> .
-    <a href="https://twitter.com/mkutaybozkurt">twitter</a> .
-    <a href="https://instagram.com/mkutaybozkurt">instagram</a> .
-    <a href="https://github.com/sponsors/mkutay">sponsor me</a>
+<!--     <a href="https://twitter.com/mkutaybozkurt">twitter</a> . -->
+    <a href="https://instagram.com/mkutaybozkurt">instagram</a>
+<!--     <a href="https://github.com/sponsors/mkutay">sponsor me</a> -->
   </samp>
 </p>
